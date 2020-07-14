@@ -5,3 +5,9 @@ input2 = int(input("Please enter the second number"))
 
 if symbol == "+":
     pass
+elif symbol == "-":
+    pass
+elif symbol == "*":
+    pass
+elif symbol == "/":
+    pass
